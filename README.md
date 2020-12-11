@@ -1,2 +1,2 @@
 # Classification
-Classification Wine Quality Red
+Classification Wine Quality Red with KNN
